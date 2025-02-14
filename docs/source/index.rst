@@ -6,7 +6,7 @@ We will slowly be expanding as the products get updated.
 Discord Server Link: https://discord.gg/9bjmFJt2DU
 ROBLOX Group Link: https://www.roblox.com/groups/32749618/Super-Target-and-pine#!/about
 
-.. alert::
+.. note::
 
    This documentation is currently very basic and still growing!
 
@@ -15,5 +15,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   sco
+   atm
