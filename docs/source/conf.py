@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'pine. Docs'
-copyright = '2025, pine.'
+copyright = '2025, pine'
 author = 'AlexBartles'
 
 release = '0.1'
