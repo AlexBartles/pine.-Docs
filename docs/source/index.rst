@@ -1,17 +1,14 @@
-Welcome to Lumache's documentation!
+Welcome to pine.'s documentation!
 ===================================
+This is the documentation for all pine. products.
+We will slowly be expanding as the products get updated.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Discord Server Link: https://discord.gg/9bjmFJt2DU
+ROBLOX Group Link: https://www.roblox.com/groups/32749618/Super-Target-and-pine#!/about
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. alert::
 
-.. note::
-
-   This project is under active development.
+   This documentation is currently very basic and still growing!
 
 Contents
 --------
