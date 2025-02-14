@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'pine. Docs'
+copyright = '2025, pine.'
+author = 'AlexBartles'
 
 release = '0.1'
 version = '0.1.0'
